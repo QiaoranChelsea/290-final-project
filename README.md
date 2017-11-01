@@ -1,11 +1,20 @@
-# 290-final-project
-The Final Project of CS 290 Web Development
-This website is builded to privide Oregon's travel and entertainment information.
+# CS 290 Web Development Final Project
+This website is builded to provide Oregon's travel and entertainment information together with some features such as searching event keyword, and adding information by user.etc
+
+The technique we used in this project:
+- HTML & CSS
+- Client-side JS
+- Server-side JS (Node.js)
+- Basic Node.js serving stack (using Express)
+- Dynamically generated content
+- Server-side data storage
+- Client-to-server communication via API
+- Git & GitHub
 
 
 ## Set up to check our project
-This project is developed by using HTML/CSS, JavaScript, Node.js, taking JSON as database to implement a web page composed of dynamic contects.
-Since we did not publish this website yet, if you wanna check our project, please follow steps below:
+
+Since we did not publish this website yet, if you wanna see our web page, please follow steps below:
 
 ### 1. Install Node.js 
   - If you already install Node.js, skip section 1
