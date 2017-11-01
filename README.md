@@ -21,7 +21,7 @@ Since we did not publish this website yet, if you wanna check our project, pleas
   - Under the directory of our project (best guess would be: 290-final-project-master)
   - Typing command: `node server.js` 
     - Then the you will see the successful message shown like this:
-      ![alt text](screenshot/paths.png "Description goes here")
+      ![alt text](/own-Q-A/screenshot/paths.png "Description goes here")
     
  ## 4. go to our homepage
   - The homepage link will be http://localhost:3000/home
