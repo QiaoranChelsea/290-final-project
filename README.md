@@ -1,4 +1,4 @@
-# CS 290 Web Development Final Project
+# Life In Corvallis Web Page
 This website is builded to provide Oregon's travel and entertainment information together with some features such as searching event keyword, and adding information by user.etc
 
 The technique we used in this project:
